@@ -1,1 +1,1 @@
-# HexGone The Game
+# HexGone Game Server
